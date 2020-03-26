@@ -4,7 +4,7 @@ module.exports = {
     username: 'yovanamata',
     password: '123456',
     database: 'challenge',
-    host: '127.0.0.1',
+    host: '34.70.218.175',
     dialect: 'postgres',
   },
   saltRounds: 6,
